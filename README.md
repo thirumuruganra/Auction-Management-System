@@ -4,3 +4,4 @@
 - These auction software help in easily coordinating auction houses and simplify the process by a great deal.
 - Class 12 CBSE School Project
 - This Project was done using Python 3.9 (64-bit) and MySQL 8.0 Command Line Client
+- Modules used - MySQL Python Connector, Tkinter
